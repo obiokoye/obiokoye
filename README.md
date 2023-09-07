@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif)]
 <h1 align="center">Hi 👋, I'm Obi Nicholas</h1>
 <h3 align="center">A passionate Full Stack developer from Nigeria</h3>
-<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp />
+<img align="right" alt="coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obiokoye&label=Profile%20views&color=0e75b6&style=flat" alt="obiokoye" /> </p>
 
