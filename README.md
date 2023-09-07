@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💬 Ask me about **PHP, Flutter, Laravel**
+- 💬 Ask me about **PHP, Flutter, Laravel, WordPress**
 
 - 📫 How to reach me **okoyenicholasobi@gmail.com**
 
-- ⚡ Fun fact **I am fun**
+- ⚡ Fun fact **I am fun to work with**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
