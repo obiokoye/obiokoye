@@ -1,4 +1,4 @@
-![Header](https://pbs.twimg.com/profile_banners/1372701912844341248/1690982001/1080x360)
+![Header](https://i.giphy.com/media/FNfcWhlz0GTkzcnZWh/giphy.webp)
 <h1 align="center">Hi 👋, I'm Obi Nicholas</h1>
 <h3 align="center">A passionate Full Stack developer from Nigeria</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
