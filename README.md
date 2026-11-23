@@ -1,36 +1,107 @@
-![Header](https://i.giphy.com/media/FNfcWhlz0GTkzcnZWh/giphy.webp)
-<h1 align="center">Hi 👋, I'm Obi Nicholas</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obiokoye&label=Profile%20views&color=0e75b6&style=flat" alt="obiokoye" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E1834,100:2F8F75&height=190&section=header&text=Obi%20Nicholas%20Okoye&fontSize=46&fontColor=E9EDF6&fontAlignY=36&desc=Full-stack%20engineer%20%C2%B7%20Laravel%20and%20AI%20agents&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Obi Nicholas Okoye, full-stack engineer, Laravel and AI agents" />
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 💬 Ask me about **Python, PHP, Flutter, Laravel, WordPress**
-
-- 📫 How to reach me **okoyenicholasobi@gmail.com**
-
-- ⚡ Fun fact **I am fun to work with**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/obiokoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="obiokoye" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/obi-okoye-65b7381b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obi-okoye-65b7381b3/" height="30" width="40" /></a>
-<a href="https://instagram.com/obinicholasokoye" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="obinicholasokoye" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/okoyenicholasobi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="okoyenicholasobi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D9B45A&center=true&vCenter=true&width=640&lines=Building+30+AI+agents+in+30+days;Laravel+%C2%B7+Python+%C2%B7+TypeScript;Tool+calling+%C2%B7+RAG+%C2%B7+MCP+%C2%B7+browser+agents" alt="Building 30 AI agents in 30 days" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/obi-okoye-65b7381b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:okoyenicholasobi@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://dev.to/obiokoye"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://www.hackerrank.com/okoyenicholasobi"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://instagram.com/obinicholasokoye"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=obiokoye&label=Profile%20views&color=2F8F75&style=for-the-badge" alt="Profile views" />
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Nicholasnti"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nicholasnti" /></a></p><br><br>
+## 👋 About me
 
-<div>
+I'm a full-stack developer with a Laravel and PHP background, and I now build **AI agents** in Python and TypeScript: tool calling, RAG, MCP servers, human-in-the-loop workflows, and the tests and guardrails that make them safe to run.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obiokoye&show_icons=true&locale=en&layout=compact" alt="obiokoye" /></p>
+- 🔭 Right now: building **[30 Days of AI Agents](#-30-days-of-ai-agents)**, one working, tested project every day
+- 💼 Open to **AI agent** and **full-stack engineering** roles
+- 💬 Ask me about **Laravel, PHP, Python, TypeScript, LLM tool calling, RAG, MCP, Flutter, WordPress**
+- 📫 Reach me at **okoyenicholasobi@gmail.com**
+- ⚡ Fun fact: I explain every agent I build in Laravel terms, so PHP developers can follow along
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obiokoye&show_icons=true&locale=en" alt="obiokoye" /></p>
+## 🤖 30 Days of AI Agents
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=obiokoye&" alt="obiokoye" /></p>
-</div>
+<img src="https://img.shields.io/badge/progress-14%20%2F%2030%20days-D9B45A?style=for-the-badge" alt="Progress: 14 of 30 days" />
+
+Every project runs offline in demo mode, has tests in CI, swaps between Gemini, Groq, OpenAI and Anthropic with one `.env` value, and comes with a `LEARN.md` that maps the code to Laravel concepts.
+
+| Day | Project | Stack | What it does |
+|-----|---------|-------|--------------|
+| 1 | [cli-tool-agent](https://github.com/obiokoye/cli-tool-agent) | python | Terminal agent with tool calling |
+| 2 | [streaming-chat-agent](https://github.com/obiokoye/streaming-chat-agent) | typescript | Next.js chat app with streaming responses and live tool calls |
+| 3 | [laravel-ai-assistant](https://github.com/obiokoye/laravel-ai-assistant) | laravel | Laravel + Prism PHP assistant with tool calling |
+| 4 | [doc-extractor](https://github.com/obiokoye/doc-extractor) | python | Receipts and invoices to validated JSON with Pydantic |
+| 5 | [pdf-rag-chat](https://github.com/obiokoye/pdf-rag-chat) | python | Chat with your PDFs, with page citations (RAG) |
+| 6 | [web-research-agent](https://github.com/obiokoye/web-research-agent) | typescript | Searches the web and writes a summary with citations |
+| 7 | [ai-ticket-triage](https://github.com/obiokoye/ai-ticket-triage) | laravel | Queue jobs that classify tickets, set priority and draft replies |
+| 8 | [react-agent-from-scratch](https://github.com/obiokoye/react-agent-from-scratch) | python | ReAct agent loop with no framework |
+| 9 | [langgraph-approval-agent](https://github.com/obiokoye/langgraph-approval-agent) | python | Stateful LangGraph agent that pauses for human approval |
+| 10 | [mcp-sqlite-server](https://github.com/obiokoye/mcp-sqlite-server) | typescript | MCP server exposing SQLite tools to AI clients |
+| 11 | [mcp-client-agent](https://github.com/obiokoye/mcp-client-agent) | python | Agent that connects to any MCP server and uses its tools |
+| 12 | [text-to-sql-agent](https://github.com/obiokoye/text-to-sql-agent) | python | Plain English to safe, read-only SQL with guardrails |
+| 13 | [laravel-mcp-server](https://github.com/obiokoye/laravel-mcp-server) | laravel | Exposes a Laravel app's data and actions over MCP |
+| 14 | [browser-agent](https://github.com/obiokoye/browser-agent) | typescript | Playwright agent that navigates websites and fills forms, with guardrails and human approval |
+
+## 🛠️ Tech stack
+
+**AI & backend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,ts,nodejs,express&perline=10" alt="PHP, Laravel, Python, FastAPI, TypeScript, Node.js, Express" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white" alt="Anthropic" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/MCP-0E1834?style=flat-square" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/RAG-2F8F75?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square" alt="Playwright" />
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+</p>
+
+**Frontend & mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,sass,tailwind,bootstrap,flutter,dart,kotlin&perline=11" alt="React, Next.js, JavaScript, HTML, CSS, Sass, Tailwind, Bootstrap, Flutter, Dart, Kotlin" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" alt="Chart.js" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+**Data, cloud & tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis,firebase,aws,vercel,heroku,docker,linux,git,githubactions,postman,wordpress,figma,ps,ai&perline=11" alt="MySQL, PostgreSQL, MongoDB, SQLite, Redis, Firebase, AWS, Vercel, Heroku, Docker, Linux, Git, GitHub Actions, Postman, WordPress, Figma, Photoshop, Illustrator" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square" alt="Microsoft SQL Server" />
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=obiokoye&show_icons=true&hide_border=true&bg_color=0E1834&title_color=D9B45A&text_color=E9EDF6&icon_color=6FCFB3&ring_color=D9B45A&count_private=true&hide_rank=true&disable_animations=true" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=obiokoye&layout=compact&hide_border=true&bg_color=0E1834&title_color=D9B45A&text_color=E9EDF6&langs_count=8&disable_animations=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=obiokoye&hide_border=true&background=0E1834&ring=D9B45A&fire=D9B45A&currStreakLabel=D9B45A&sideLabels=E9EDF6&currStreakNum=E9EDF6&sideNums=E9EDF6&dates=9AA6C4&stroke=26335A&disable_animations=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=obiokoye&hide_border=true&bg_color=0E1834&color=E9EDF6&line=D9B45A&point=6FCFB3&area=true&area_color=2F8F75" alt="Contribution activity graph" />
+</p>
+
+## ☕ Support
+
+If my projects help you, you can buy me a coffee:
+
+<a href="https://www.buymeacoffee.com/Nicholasnti"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" alt="Buy me a coffee" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F8F75,100:0E1834&height=110&section=footer" width="100%" alt="" />
