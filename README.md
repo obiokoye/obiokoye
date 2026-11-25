@@ -25,7 +25,7 @@ I'm a full-stack developer with a Laravel and PHP background, and I now build **
 
 ## 🤖 30 Days of AI Agents
 
-<img src="https://img.shields.io/badge/progress-14%20%2F%2030%20days-D9B45A?style=for-the-badge" alt="Progress: 14 of 30 days" />
+<img src="https://img.shields.io/badge/progress-14%20%2F%2030%20days-D9B45A?style=for-the-badge" alt="Progress: 16 of 30 days" />
 
 Every project runs offline in demo mode, has tests in CI, swaps between Gemini, Groq, OpenAI and Anthropic with one `.env` value, and comes with a `LEARN.md` that maps the code to Laravel concepts.
 
